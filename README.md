@@ -1,5 +1,7 @@
 # Astro Starter Kit: Minimal
 
+> https://monumental-granita-8ecfa5.netlify.app/
+
 ```
 npm create astro@latest -- --template minimal
 ```
